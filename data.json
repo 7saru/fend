@@ -28,5 +28,15 @@
     "title": "طلب جديد",
     "link": "/pages/new.html",
     "icon": "fa-plus"
+  },
+  {
+    "title": "اوراق التقسيط",
+    "link": "",
+    "icon": "fa-circle-check"
+  },
+  {
+    "title": "كود فورى",
+    "link": "",
+    "icon": "fa-circle-check"
   }
 ]
