@@ -1,0 +1,32 @@
+[
+  {
+    "title": "تسليم من المنزل",
+    "link": "/pages/cash.html",
+    "icon": "fa-house-user"
+  },
+  {
+    "title": "تسليم من الفرع",
+    "link": "",
+    "icon": "fa-store"
+  },
+  {
+    "title": "عميل جديد OMS",
+    "link": "",
+    "icon": "fa-user-plus"
+  },
+  {
+    "title": "إلغاء طلب",
+    "link": "",
+    "icon": "fa-ban"
+  },
+  {
+    "title": "كيفية التأكد من الطلبات الفيزا",
+    "link": "",
+    "icon": "fa-circle-check"
+  },
+  {
+    "title": "طلب جديد",
+    "link": "/pages/new.html",
+    "icon": "fa-plus"
+  }
+]
